@@ -1,7 +1,7 @@
 package calgrade;
 
 public class Output {
-  public void print(char c) {
+  public void print(String c) {
 	  System.out.println("grade : "+c);
 	  }
 }
