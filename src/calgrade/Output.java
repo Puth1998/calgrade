@@ -1,7 +1,7 @@
 package calgrade;
 
 public class Output {
-  public void ptint(char c) {
+  public void print(char c) {
 	  
   }
 }
